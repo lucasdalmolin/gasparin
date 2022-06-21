@@ -1,0 +1,36 @@
+/* * {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+ .container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}  
+body {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.interface {
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+.formulario {
+    background-color: salmon;
+    height: 100vh;
+    
+}
+
+@media only screen and (max-width : 600px) {
+    .interface,
+    .formulario {
+        height: 50vh;
+    }
+} */
+.custom-row {
+    background-color: antiquewhite;
+    height: 100vh;
+}
